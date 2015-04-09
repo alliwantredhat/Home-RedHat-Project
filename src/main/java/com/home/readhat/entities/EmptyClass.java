@@ -5,4 +5,7 @@ package com.home.readhat.entities;
  * Email: svart63@gmail.com
  */
 public class EmptyClass {
+    public void test(){
+        System.out.println("Tetsing");
+    }
 }
